@@ -1,4 +1,4 @@
-- #sobremim
+- # sobre mim
 -  👋 Olá meu nome é @d-nicolly
 - 👍 meu email de contato é eduarda.santos18@escola.pr.gov.br
 - 👀 eu estou interessado em aprender a programar novas linguagens...
